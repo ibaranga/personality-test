@@ -7,18 +7,18 @@ It consists of:
 
 ## Landing screen
 
-![image](01-landing.png)
+![image](img/01-landing.png)
 
 ## Dynamic screen, that reads question and answers from the backend
 
 #### Active Test
 
-![image](02-active-test.png)
+![image](img/02-active-test.png)
 
 #### Completed Test
 
-![image](03-completed-test.png)
+![image](img/03-completed-test.png)
 
 ## Finish screen, where you can see your personality trait
 
-![image](04-results.png)
+![image](img/04-results.png)
