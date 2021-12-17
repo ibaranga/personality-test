@@ -1,0 +1,77 @@
+{
+  "name": "Cool personality test",
+  "items": [
+    {
+      "index": 1,
+      "value": "I am the life of the party.",
+      "options": [
+        {
+          "index": 1,
+          "value": "Agree",
+          "introvertScore": 0.01,
+          "extrovertScore": 0.99
+        },
+        {
+          "index": 2,
+          "value": "Neutral",
+          "introvertScore": 0.49,
+          "extrovertScore": 0.51
+        },
+        {
+          "index": 3,
+          "value": "Disagree",
+          "introvertScore": 0.99,
+          "extrovertScore": 0.01
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "value": "I like working as part of big teams",
+      "options": [
+        {
+          "index": 1,
+          "value": "Agree",
+          "introvertScore": 0.10,
+          "extrovertScore": 0.90
+        },
+        {
+          "index": 2,
+          "value": "Neutral",
+          "introvertScore": 0.40,
+          "extrovertScore": 0.50
+        },
+        {
+          "index": 3,
+          "value": "Disagree",
+          "introvertScore": 0.90,
+          "extrovertScore": 0.10
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "value": "I like working alone when dealing with complex tasks",
+      "options": [
+        {
+          "index": 1,
+          "value": "Agree",
+          "introvertScore": 0.90,
+          "extrovertScore": 0.10
+        },
+        {
+          "index": 2,
+          "value": "Neutral",
+          "introvertScore": 0.60,
+          "extrovertScore": 0.40
+        },
+        {
+          "index": 3,
+          "value": "Disagree",
+          "introvertScore": 0.10,
+          "extrovertScore": 0.90
+        }
+      ]
+    }
+  ]
+}

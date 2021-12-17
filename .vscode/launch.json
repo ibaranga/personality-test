@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PersonalityTestApplication<personality-test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ionutbaranga.ptapp.PersonalityTestApplication",
+            "projectName": "personality-test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PtAppApplication<personality-test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ionutbaranga.ptapp.PtAppApplication",
+            "projectName": "personality-test",
+            "args": ""
+        }
+    ]
+}
